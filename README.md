@@ -59,7 +59,7 @@ The Nep Dictionary App is an all-in-one solution for exploring and preserving th
 
 To install the Nep Dictionary App, follow these steps:
 
-1. Download the latest APK file from the [Releases](./releases) section of this repository.  
+1. Download the latest APK file from this repository.  
 2. Transfer the APK file to your Android device.  
 3. Open the APK file on your device.  
    - You may need to enable **Install from Unknown Sources** in your device settings.  
