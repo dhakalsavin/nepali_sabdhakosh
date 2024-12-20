@@ -87,3 +87,20 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments  
 Special thanks to **Nepali Pragya Pratisthan** for their authentic collection of Nepali words and meanings, and to the vibrant Nepali community for their valuable contributions to this project.  
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/59843336-63fb-4e18-9a4a-2dbe7a62063e
+
+
+
+
+
+
+
+
