@@ -4,6 +4,15 @@ The Nep Dictionary App is an all-in-one solution for exploring and preserving th
 
 ---
 
+
+#Tech Stack
+The Nepali Sabdhakosh App is built with the following technologies:
+ **Flutter & Dart: ** For cross-platform mobile application development.
+ **GetX State Management: ** To manage state efficiently across the app.
+ **Supabase: ** For managing the online database, enabling real-time data synchronization.
+ **Floor Library: ** To implement a local SQLite database for offline functionality.
+
+
 ## Features  
 
 ### 1. **Nepali Dictionary**  
