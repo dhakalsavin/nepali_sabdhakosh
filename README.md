@@ -13,6 +13,13 @@ The Nepali Sabdhakosh App is built with the following technologies:
 - **Floor Library:** To implement a local SQLite database for offline functionality.
 
 
+
+https://github.com/user-attachments/assets/59843336-63fb-4e18-9a4a-2dbe7a62063e
+
+
+
+
+
 ## Features  
 
 ### 1. **Nepali Dictionary**  
@@ -104,7 +111,6 @@ Special thanks to **Nepali Pragya Pratisthan** for their authentic collection of
 
 
 
-https://github.com/user-attachments/assets/59843336-63fb-4e18-9a4a-2dbe7a62063e
 
 
 
